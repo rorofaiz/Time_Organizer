@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858045508211",
+    "firebase_url": "https://timeorganizer-c21f2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "timeorganizer-c21f2",
+    "storage_bucket": "timeorganizer-c21f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858045508211:android:64afdf412e9f02c3d89806",
+        "android_client_info": {
+          "package_name": "com.example.time_organizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858045508211-9gjpi2b20tr24hlo0g61728m1pfdqurg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBDwKXmhmmz93cuKUXsTE4II9bMPNIoNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858045508211-9gjpi2b20tr24hlo0g61728m1pfdqurg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
